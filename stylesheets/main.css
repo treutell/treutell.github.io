@@ -20,8 +20,7 @@ ul li:visited {
 	}
 	
 	
-.square-button {
+.square-button a {
 	text-decoration: none;
 	text-color: black;
 	}
-	
