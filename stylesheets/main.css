@@ -27,5 +27,6 @@ ul li:visited {
 
 /* Dashed red border */
 hr {
+	height: 1px;
   border-top: 1px dashed black;
 }
