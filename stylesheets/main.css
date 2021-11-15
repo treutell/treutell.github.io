@@ -1,0 +1,6 @@
+/* Stylesheet for github page */
+
+.bg-hover-darken:hover {
+	filter: brightness(85%);
+	}
+	
