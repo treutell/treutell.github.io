@@ -24,3 +24,8 @@ ul li:visited {
 	text-decoration: none;
 	text-color: black;
 	}
+
+/* Dashed red border */
+hr {
+  border-top: 1px dashed black;
+}
