@@ -1,9 +1,8 @@
 /* Stylesheet for github page */
 
-.bg-hover-darken:hover {
-	filter: brightness(85%);
-	}
-	
+
+
+
 ul li {
 	color: black;
 	text-decoration: none;
@@ -12,5 +11,17 @@ ul li {
 ul li:visited {
 	color: gray;
 	text-decoration: none;
+	}
+		
+	
+/* Custom Classes */	
+.bg-hover-darken:hover {
+	filter: brightness(85%);
+	}
+	
+	
+.square-button {
+	text-decoration: none;
+	text-color: black;
 	}
 	
